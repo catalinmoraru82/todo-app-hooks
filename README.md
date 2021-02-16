@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # todo-app-hooks
 Todo App build with React Hooks and Materialize CSS
->>>>>>> 519558e65c87d9b6100aebd4415cdc97014ff4c6
